@@ -25,3 +25,6 @@ fffffffffffffffffffffff
 a new line from dell g3...
 
 github... gitee... 1128 2201
+
+the new line by ubuntu 16.04.
+1128 22:18
